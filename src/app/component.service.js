@@ -18,3 +18,4 @@ export class ComponentService {
       this.addValuesButton.addEventListener("click", cb);
     }
   }
+  
